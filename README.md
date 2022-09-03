@@ -12,6 +12,4 @@ ASP.NET
 
 .NET Core Runtime
 
-Visual Studio
-
-VS Code
+Visual Studio or VS Code
